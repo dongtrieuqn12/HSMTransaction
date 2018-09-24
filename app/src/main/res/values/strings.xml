@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobile POS</string>
+    <string name="action_settings">Settings</string>
+    <string name="topup">Topup</string>
+    <string name="balance">Balance</string>
+    <string name="purchase">Purchase</string>
+    <string name="tap_your_card">Tap your card</string>
+    <string name="amount">Amount</string>
+    <string name="default_purchase_amount">2</string>
+    <string name="default_topup_amount">10</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_title_host">Host</string>
+    <string name="pref_default_host">35.161.106.113</string>
+    <string name="pref_title_port">Port</string>
+    <string name="pref_default_port">2049</string>
+</resources>
